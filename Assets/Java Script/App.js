@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var topics = ["Mets", "Carl Sagan", "Belgium"];
+    var topics = ["Baseball", "Carl Sagan", "Belgium"];
 
     function renderButtons() {
         console.log("renderButtons is running");
